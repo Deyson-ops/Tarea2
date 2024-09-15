@@ -108,3 +108,9 @@ footer {
 .justified-text {
   text-align: justify;
 }
+
+/* Home.css */
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
